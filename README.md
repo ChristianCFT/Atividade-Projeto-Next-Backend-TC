@@ -6,13 +6,23 @@
 
 
 Para que o projeto o backend possa rodar junto com o frontend é necesário seguir esse passo a passo:
-    Para instalar as dependências.
+
+Para instalar as dependências.
+
 * npm i
-    Criar o arquivo .env na raiz do projeto:
+
+Criar o arquivo .env na raiz do projeto:
+
 * Adicionar a variável DATABASE_URL="file:./app.db"
-    Para gerar o banco de dados:
+
+Para gerar o banco de dados:
+
 * npx prisma generate
-    Para rodar o projeto:
+
+Para rodar o projeto:
+
 * npm run dev
-    Para abrir o prisma studio no navegador:
+
+Para abrir o prisma studio no navegador:
+
 * npx prisma studio
