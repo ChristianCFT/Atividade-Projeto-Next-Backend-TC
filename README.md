@@ -5,7 +5,7 @@
 * Thiago Santos Fonseca Amaral - 2025004649
 
 
-### Para que o projeto o backend possa rodar junto com o frontend é necesário seguir esse passo a passo:
+### Para que o projeto o backend possa rodar junto com o frontend é necesário seguir este passo a passo:
 
 Para instalar as dependências.
 
